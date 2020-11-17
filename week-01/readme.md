@@ -4,11 +4,11 @@ Welcome to the first week of _ChallengeSet_, a _set_ of _challenges_ we're plann
 
 This first week is a tidy little introduction one: below you'll find a few misc. Kattis problems we've picked out for you to try:
 
-[Job Expenses](https://open.kattis.com/problems/jobexpenses)
+[Job Expenses](https://open.kattis.com/problems/jobexpenses) _1 ballot_
 
-[Pig Latin](https://open.kattis.com/problems/piglatin)
+[Pig Latin](https://open.kattis.com/problems/piglatin) _2 ballot_
 
-[Block Game](https://open.kattis.com/problems/blockgame2)
+[Block Game](https://open.kattis.com/problems/blockgame2) _3 ballot_
 
 
 ## How do I use Kattis?
