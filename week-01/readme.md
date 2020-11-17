@@ -21,9 +21,9 @@ If none of that works, feel free to reach out in the Discord for help on getting
 
 Sample input and output for all problems have been given under the subdirectory `week-01/test-samples/`. The input files must be piped into your solution in order to test them.
 
-An example command for doing this for an arbitrary python solution is `cat test-samples/<problemid>/1.in | python <username>/<problemid>.py` . 
+An example command for doing this for an arbitrary python solution is `cat test-samples/<problemid>/<sample-numbe/r>-input.in | python <username>/<problemid>.py` . 
 
-The expected output for any given solution is found under the subdirectory `week-01/test-samples/<problemid>/<sample-number>.ans` .  
+The expected output for any given solution is found under the subdirectory `week-01/test-samples/<problemid><sample-numbe/r>-output.ans` .  
 
 ## Submitting Solutions
 
@@ -45,9 +45,8 @@ This is the preferable method, since learning git is a very useful skill in itse
 
 ### Contact an Executive
 
-If you're not comfortable with git, feel free to reach out to one of the following executives with your code, so we can submit it to this repository for you instead:
+If you're not comfortable with git, feel free to reach out to me with your code, so I can submit it to this repository for you instead:
 
-- Jack (<i>jack arthur null</i>#7539)
 - Zac (Dr.Swag#9148)
 
 ## What do I get out of it?
