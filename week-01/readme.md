@@ -1,4 +1,4 @@
-# Week 1 (November 17th, 2020)
+# Week 1 (November 18th, 2020)
 
 Welcome to the first week of _ChallengeSet_, a _set_ of _challenges_ we're planning on putting out every week of this semester!
 
@@ -27,7 +27,7 @@ The expected output for any given solution is found under the subdirectory `week
 
 ## Submitting Solutions
 
-Submissions to problems can be submitted past **December 1st, 2020 @ 11:59PM**, please don't distribute submissions to GitHub before this date, so every one has a chance to do their own thing before this time!
+Submissions to problems can be submitted past **December 2nd, 2020 @ 11:59PM**, please don't distribute submissions to GitHub before this date, so every one has a chance to do their own thing before this time!
 
 Either you can:
 
