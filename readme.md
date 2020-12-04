@@ -2,4 +2,5 @@
 
 a _set_ of _challenges_
 
-- [Week 1 (Nov 17th)](./week-01)
+- [Set 1 (Nov 17th)](./set-01)
+- [Set 2 (Dev 4th)](./set-02)
